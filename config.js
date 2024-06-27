@@ -5,15 +5,15 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['22395064497', '...♨︎', false],
   [''], 
   [''],
 ]
 
 //global.pairingNumber = "" //put your bot number here
-global.mods = ['923192173398'] 
-global.prems = ['923192173398', '923192173398', '923192173398']
-global.allowed = ['923192173398']
+global.mods = ['22395064497'] 
+global.prems = ['22395064497']
+global.allowed = ['22395064497']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -38,15 +38,15 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
-global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
+global.princebot = '...♨︎'
 global.packname = '𝗪𝗔𝗦𝗜♥️' 
 global.author = '𝗧𝗘𝗖𝗛♥️' 
-global.princeig = 'https://www.instagram.com' 
+global.princeig = 'https://www.instagram.com/bwaby_6.0' 
 global.princegp = 'https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j'
-global.menuvid = 'https://i.imgur.com/0UK6D3b.mp4'
-global.Princesc = '' 
-global.princeyt = 'https://youtube.com/@wasitech1'
-global.Princelog = 'https://i.imgur.com/ujxeU8g.jpeg'
+global.menuvid = 'https://telegra.ph/file/e6a6d5d61606850843458.mp4'
+global.Princesc = '&' 
+global.princeyt = 'https://youtube.com/moudybwaby'
+global.Princelog = 'https://telegra.ph/file/7d85d8b64c2d9689b8cee.jpg'
 global.thumb = fs.readFileSync('./Assets/wasi.png')
 
 global.wait = '*♻️ _ʟᴏᴅɪɴɢ ᴘʟᴢ ᴡᴀɪᴛ ᴅᴇᴀʀ _*\n*▰▰▰▱▱▱▱▱*'
